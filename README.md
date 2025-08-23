@@ -31,3 +31,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gon%C3%A7alves-a31b93264)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josegdpn/)
 [![Gmail](https://img.shields.io/badge/-contaprofissionaljn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contaprofissionaljn@gmail.com)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/josegdpn/)
+---
